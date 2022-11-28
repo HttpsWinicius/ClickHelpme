@@ -1,2 +1,1 @@
-# ClickHelpme
-Aplicativo em desenvolvimento.
+# React Native Click-me
